@@ -30,11 +30,11 @@ Now you need to edit your `app/assets/javascripts/application.js` file and add `
 //= require echarts
 ```
 
-The difference between `echarts` , `echarts-simple` or `echarts-common` :
+The difference between `echarts` , `echarts.simple` or `echarts.common` :
 
 * `echarts`: 包含所有图表组件。
-* `echarts-simple`: 只包含基础图表： 折 柱 饼。
-* `echarts-common`: 包含常用的图表组件：折 柱 饼 散点 图例 工具栏 标注 标线 数据区域缩放
+* `echarts.simple`: 只包含基础图表： 折 柱 饼。
+* `echarts.common`: 包含常用的图表组件：折 柱 饼 散点 图例 工具栏 标注 标线 数据区域缩放
 
 And you're done!
 
