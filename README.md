@@ -5,7 +5,7 @@ Wrappers of Echarts Javascript Chart Libary for Rails 3.1+
 Check out how to use echarts at http://echarts.baidu.com
 
 * echarts-rails 0.1.0 -> echarts 3.1.3
-* echarts-rails 0.1.1 -> echarts 3.2.0
+* echarts-rails 0.1.2 -> echarts 3.2.0
 
 ## Installation
 
