@@ -8,3 +8,7 @@
 /spec/reports/
 /tmp/
 .DS_Store
+/spec/dummy/log/
+/spec/dummy/tmp/
+
+*.gem
