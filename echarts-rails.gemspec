@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
   spec.name          = "echarts-rails"
-  spec.version       = "0.1.8"
+  spec.version       = "0.1.8.1"
   spec.authors       = ["Echo Han"]
   spec.email         = ["echohn@gmail.com"]
 
